@@ -1,0 +1,26 @@
+state,commodity,category,value_usd_millions,export_year,export_month
+California,Almonds,Nuts,1200.50,2024,01
+Texas,Cotton,Fiber,850.75,2024,01
+Iowa,Corn,Grains,2300.00,2024,01
+Kansas,Wheat,Grains,1750.25,2024,01
+Nebraska,Soybeans,Oilseeds,3100.00,2024,01
+Florida,Oranges,Fruits,620.30,2024,01
+Georgia,Peanuts,Oilseeds,480.90,2024,01
+Washington,Apples,Fruits,540.60,2024,01
+Wisconsin,Dairy,Livestock,1890.40,2024,01
+Arkansas,Rice,Grains,760.80,2024,01
+California,Grapes,Fruits,980.20,2024,01
+Texas,Beef,Livestock,4200.00,2024,01
+Iowa,Pork,Livestock,2800.50,2024,01
+Minnesota,Turkey,Livestock,430.70,2024,01
+Idaho,Potatoes,Vegetables,310.40,2024,01
+Oregon,Hazelnuts,Nuts,290.60,2024,01
+Montana,Barley,Grains,410.30,2024,01
+North Dakota,Sunflower,Oilseeds,380.90,2024,01
+Louisiana,Sugar,Sweeteners,520.40,2024,01
+Hawaii,Coffee,Beverages,180.20,2024,01
+Alabama,Poultry,Livestock,670.30,2024,01
+Mississippi,Catfish,Seafood,210.50,2024,01
+Colorado,Cattle,Livestock,1560.80,2024,01
+Arizona,Lettuce,Vegetables,340.20,2024,01
+Michigan,Cherries,Fruits,290.40,2024,01
